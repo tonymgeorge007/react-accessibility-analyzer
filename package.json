@@ -1,0 +1,30 @@
+{
+  "name": "react-accessibility-analyzer",
+  "version": "1.0.1",
+  "description": "Package for analyze the accessibility coverage of website developed using  reactJS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tonymgeorge007/react-accessibility-analyzer.git"
+  },
+  "keywords": [
+    "accessibility",
+    "analyzer",
+    "analyze",
+    "react",
+    "Contrast Ratio",
+    "Tab Index",
+    "Semantic HTML",
+    "Luminance",
+    "ARIA Label"
+  ],
+  "author": "tonygeomav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tonymgeorge007/react-accessibility-analyzer/issues"
+  },
+  "homepage": "https://github.com/tonymgeorge007/react-accessibility-analyzer#readme"
+}
